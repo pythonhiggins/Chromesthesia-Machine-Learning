@@ -5,7 +5,7 @@ This project is a very simple machine learning model designed to map colours to 
 This version is trained on a ukelele using the basic four strings, so A, E, C and G are trained, but it would be easy to train your own output
 
 1. Install Processing on your machine 
- - Install oscP5 library
+  - Install oscP5 library
 
 2. Open the Audio_Input Processing Source Code in Processing
  - Hit Run. You should see an equalizer mapping your mic input. Leave it open. 
