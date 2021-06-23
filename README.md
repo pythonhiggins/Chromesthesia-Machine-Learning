@@ -14,8 +14,7 @@ This version is trained on a ukelele using the basic four strings, so A, E, C an
 
 3. Install Wekinator</br>
   Run the WekinatorProjectRGB file
-</br>
-Alternately, you could create your own Wekinator project with 26 inputs, and three outputs (one for each of the RGB elements)
+Alternately here, you could create your own Wekinator project with 26 inputs, and three outputs (one for each of the RGB elements)
 and set the value of each of the three outputs to the respective R, G or B value (divided by 255) 
 </br></br>
 
