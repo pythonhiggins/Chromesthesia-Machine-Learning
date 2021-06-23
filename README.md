@@ -30,7 +30,7 @@ and set the value of each of the three outputs to the respective R, G or B value
 </br></br>
 Licensing: Much of the Processing, and Wekinator code is taken from their free samples available at: 
 http://www.wekinator.org/examples/
-https://processing.org/ (Credit to Daniel Schiffman)
+https://processing.org/ (Credit to Daniel Schiffman)</br>
 Thanks to Rafael Ramirez Melendez & Sergio Giraldo Mendez (UPF)
 
 
