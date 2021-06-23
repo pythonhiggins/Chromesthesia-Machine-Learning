@@ -4,9 +4,9 @@ A simple sound to colour mapping using wekinator and processing
 This project is a very simple machine learning model designed to map colours to simple notes, using the principles of Chromesthesia http://www.endolith.com/wordpress/2010/09/15/a-mapping-between-musical-notes-and-colors/
 This version is trained on a ukelele using the basic four strings, so A, E, C and G are trained, but it would be easy to train your own output
 
-1. Install Processing on your machine 
+1. Install Processing on your machine  </br>
    Install oscP5 library
-   
+   </br>
 
 2. Open the Audio_Input Processing Source Code in Processing
   Hit Run. You should see an equalizer mapping your mic input. Leave it open. 
