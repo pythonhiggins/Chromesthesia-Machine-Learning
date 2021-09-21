@@ -1,7 +1,7 @@
 # Chromesthesia-Machine-Learning
 A sound to colour mapping tool based on the principle of Chromesthesia (people who see colour when they hear sound) executed using wekinator and processing.
 
-The porject turns your device's screen into a chromosthesia modelling device, using the microphone. For example if the mic hears a C note, the screen reacts with Green.
+The project turns your device's screen into a chromosthesia modelling device, using the microphone. For example if the mic hears a C note, the screen reacts with Green.
 
 The system is real time and dynamic, it can deal with a full spectrum of notes, and each note is organically calculed and displayed using the RGB properties of that exact sound
 
