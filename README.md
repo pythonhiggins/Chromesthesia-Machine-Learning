@@ -1,8 +1,12 @@
 # Chromesthesia-Machine-Learning
-A simple sound to colour mapping based on the principle of Chromesthesia executed using wekinator and processing
+A sound to colour mapping tool based on the principle of Chromesthesia (people who see colour when they hear sound) executed using wekinator and processing.
 
-This project is a very simple machine learning model designed to map colours to simple notes, using the principles of Chromesthesia http://www.endolith.com/wordpress/2010/09/15/a-mapping-between-musical-notes-and-colors/
-This version is trained on a ukelele using the basic four strings, so A, E, C and G are trained, but it would be easy to train your own output
+The porject turns your device's screen into a chromosthesia modelling device, using the microphone. For example if the mic hears a C note, the screen reacts with Green.
+
+The system is real time and dynamic, it can deal with a full spectrum of notes, and each note is organically calculed and displayed using the RGB properties of that exact sound
+
+This project is a simple machine learning model designed for a university Sound Communication class http://www.endolith.com/wordpress/2010/09/15/a-mapping-between-musical-notes-and-colors/
+This version is trained on a ukelele using the basic four strings, so A, E, C and G are trained, but it would be easy to train your own output using the steps
 
 1. Install Processing on your machine  </br>
    Install oscP5 library
